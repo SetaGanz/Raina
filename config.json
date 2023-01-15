@@ -1,0 +1,24 @@
+{
+    "ownerNumber": ["6289514564265@s.whatsapp.net"],
+    "ownerName": "SetaAnakBaik",
+    "instagram" : "https://instagram.com/szyax_",
+    "botName": "Raina-Botz",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "hdsaA8jT",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
